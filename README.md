@@ -1,4 +1,5 @@
 ### Hola 👋
+An expert software engineer with a wealth of more than 17 years experience in software development, I possess a deep understanding of algorithms and data structures and a passion for developing efficient and scalable solutions. Proficient in multiple programming languages and experienced in software development methodologies, I have a proven track record of delivering high quality software projects on time and within budget, while leading and mentoring team members.
 
 <!--
 **farzadniknam/farzadniknam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
