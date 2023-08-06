@@ -1,6 +1,6 @@
 ### Hola 👋
-An expert software engineer with a wealth of more than 17 years experience in software development, I possess a deep understanding of algorithms and data structures and a passion for developing efficient and scalable solutions. Proficient in multiple programming languages and experienced in software development methodologies, I have a proven track record of delivering high quality software projects on time and within budget, while leading and mentoring team members.
 
+Farzad Niknam, a maestro of software engineering with a Bachelor's degree in Computer Engineering, brings over 17 years of unwavering dedication to the world of software engineering. I stand as a seasoned craftsman, masterfully weaving intricate codes and algorithms. My journey has been a symphony of ML, AI, C#, .NET Core, Python, and more, harmonizing innovation with every keystroke. I wield data structures and algorithms as my tools of creation, fashioning elegant and scalable solutions that push the boundaries of what's possible. Guided by these pillars, I've orchestrated the development of high-quality software projects, consistently delivering on time and within budget. As a mentor and leader, I've composed teams into high-performing orchestras of talent, ensuring our collective crescendo of success reverberates throughout the industry.
 <!--
 **farzadniknam/farzadniknam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
