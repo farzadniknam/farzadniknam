@@ -3,7 +3,7 @@
 
 Istanbul, Türkiye · Open to collaboration
 
-[Email](mailto:farzad.niknam@gmail.com) · [LinkedIn](https://linkedin.com/in/<your-linkedin>) · [GitHub](https://github.com/<your-username>)
+[Email](mailto:farzad.niknam@gmail.com) · [LinkedIn](https://www.linkedin.com/in/farzad-niknam-b90993a7/) · [GitHub](https://github.com/farzadniknam)
 
 ---
 
