@@ -1,5 +1,5 @@
 # Farzad Niknam
-**Senior Staff Engineer (C#/.NET) | Industrial Software & Applied Computer Vision**
+**Senior Staff Engineer & Project Manager (C#/.NET) | Industrial Software & Applied Computer Vision**
 
 Istanbul, Türkiye · Open to collaboration
 
