@@ -13,13 +13,13 @@ Current focus: applied computer vision for factory safety/quality, plus M.Sc. re
 
 ---
 
-## Featured Work (with proof)
+## Featured Work
 ### OsteoIntel — Opportunistic Osteoporosis Screening (M.Sc. research)
 - Pipeline: chest X-ray preprocessing → CNN inference → explainability (Grad-CAM)
 - Stack: Python, TensorFlow, OpenCV
 - Evidence: repo / report / poster: <link>
 
-### Microgrid Site Prioritization Tool (California-focused)
+### Microgrid Site Prioritization Tool
 - Decision-support scoring with public risk + critical facility + equity overlays
 - Output: ranked sites + evidence report per site
 - Evidence: repo / demo / docs: <link>
@@ -31,7 +31,7 @@ Current focus: applied computer vision for factory safety/quality, plus M.Sc. re
 
 ---
 
-## Core Skills (only what you actually use)
+## Core Skills
 - **C#/.NET**: WinForms/WPF, APIs, tooling, performance optimization
 - **Industrial**: PLC/CNC connectivity, SOLIDWORKS API, ERP/PLM workflows
 - **AI/CV**: YOLO, OpenCV, PyTorch/TensorFlow, evaluation (mAP/PR/F1)
@@ -41,7 +41,6 @@ Current focus: applied computer vision for factory safety/quality, plus M.Sc. re
 ## Experience
 - **KABAN Makina** — Senior Staff Engineer & Project Manager (2017–Present)
 - **Koç University** — M.Sc. Research (2024–Present)
-- **Turkish Technic** — Senior Software Engineer/Architect (2015–2020)
 - **ENBank PSP** — Senior Software Developer (2009–2012)
 
 ---
